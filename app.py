@@ -6,9 +6,11 @@ from one_way_slab_designer import run_design
 
 st.set_page_config(page_title="210004027 - One way simply supported", layout='wide')
 st.title("210004027 — One way simply supported")
-st.markdown("**Manya Rajib Jain (210004027)**  
-**Dr. Akshay Pratap Singh**  
-**Civil Engineering, IIT Indore**")
+st.markdown("### **One-Way Simply Supported Slab Designer**\n"
+            "**Manya Rajib Jain (210004027)**\n"
+            "**Dr. Akshay Pratap Singh**\n"
+            "**Civil Engineering, IIT Indore**")
+
 st.write("---")
 
 with st.form("inputs"):
